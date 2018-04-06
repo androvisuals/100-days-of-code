@@ -12,6 +12,6 @@
 **Thoughts:** Glad I've resumed my studies with "Head first Java" since a week ago. All the things I'd previously learned have pretty much stuck, still going through the previous 5 chapters was a good refresher.
 Started my cheat sheet in Google docs.
 
-**Link to work:** [Day 0 Array List Study 01](http://www.example.com)
+**Link to work:** [Day 0 Array List Study 01](https://github.com/androvisuals/100-days-of-code/tree/master/Day%200%20Array%20List%20Study%20Java)
 
 
