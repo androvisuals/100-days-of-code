@@ -2,10 +2,10 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-//MathTester class is used to study putting objects 
+//StringTester class is used to study putting objects 
 //into a list array and calling methods upon them
-//Arraylist with objects is more powerful than standard 
-//arrays as the list can be altered in size.
+//Using Strings for this series of tests
+
 class StringTester
 {
 	private String result="";
