@@ -21,6 +21,6 @@ Last but not least how to replace objects in an arrayList with other objects.
 
 **Thoughts:** It's all becoming a lot more natural now with finding errors and understanding how to solve them quickly.
 
-**Link to work:** [Day 1 Array List Study Strings](https://github.com/androvisuals/100-days-of-code/tree/master/Day%200%20Array%20List%20Study%20Java)
+**Link to work:** [Day 1 Array List Study Strings](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%201%20array%20list%20study%20strings%20methods%20objects%20java)
 
 
