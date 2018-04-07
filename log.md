@@ -14,4 +14,13 @@ Started my cheat sheet in Google docs.
 
 **Link to work:** [Day 0 Array List Study 01](https://github.com/androvisuals/100-days-of-code/tree/master/Day%200%20Array%20List%20Study%20Java)
 
+### Day 1: APRIL 7 , 2018
+
+**Today's Progress**: More studies with the ArrayList object this time using strings, studied more with lookups, creating arrayLists of objects and then calling methods on the objects inside of the arraylist.
+Last but not least how to replace objects in an arrayList with other objects.
+
+**Thoughts:** It's all becoming a lot more natural now with finding errors and understanding how to solve them quickly.
+
+**Link to work:** [Day 1 Array List Study Strings](https://github.com/androvisuals/100-days-of-code/tree/master/Day%200%20Array%20List%20Study%20Java)
+
 
