@@ -23,4 +23,11 @@ Last but not least how to replace objects in an arrayList with other objects.
 
 **Link to work:** [Day 1 Array List Study Strings](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%201%20array%20list%20study%20strings%20methods%20objects%20java)
 
+### Day 2: APRIL 8 , 2018
 
+**Today's Progress**: Basic study with class based inheritance. Kept it very simple to test the use of extend.
+Pure test code so nothing really useful. 
+
+**Thoughts:** Great starting method to avoid using duplicate code in a class and being able to overwrite a method from a superclass.
+
+**Link to work:** [Day 1 Array List Study Strings]
