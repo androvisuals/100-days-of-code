@@ -30,4 +30,4 @@ Pure test code so nothing really useful.
 
 **Thoughts:** Great starting method to avoid using duplicate code in a class and being able to overwrite a method from a superclass.
 
-**Link to work:** [Day 1 Array List Study Strings]
+**Link to work:** [Day 1 Array List Study Strings](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%202%20Inheritance%20study)
