@@ -30,4 +30,13 @@ Pure test code so nothing really useful.
 
 **Thoughts:** Great starting method to avoid using duplicate code in a class and being able to overwrite a method from a superclass.
 
-**Link to work:** [Day 1 Array List Study Strings](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%202%20Inheritance%20study)
+**Link to work:** [Day 2 Array List Study Strings](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%202%20Inheritance%20study)
+
+### Day 3: APRIL 9 , 2018
+
+**Today's Progress**: Worked on creating a system which generates a string made from random characters from a pre defined list with the alphabet and numbers 0-9.
+This was then added to a system which allows any number of them to be generated and then put into an arraylist.
+
+**Thoughts:** This will be the first step in me figuring out how to get random data with a seed so the same results can be created, then I want to write this to a file and start experimenting with encrypting the data.
+
+**Link to work:** [Day 3 Array List Study Strings]()
