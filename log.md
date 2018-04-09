@@ -39,4 +39,4 @@ This was then added to a system which allows any number of them to be generated 
 
 **Thoughts:** This will be the first step in me figuring out how to get random data with a seed so the same results can be created, then I want to write this to a file and start experimenting with encrypting the data.
 
-**Link to work:** [Day 3 Array List Study Strings]()
+**Link to work:** [Day 3 Array List Study Strings](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2003%20random%20string%20generator%20java)
