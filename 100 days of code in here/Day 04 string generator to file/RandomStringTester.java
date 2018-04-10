@@ -1,11 +1,19 @@
+
 import java.util.ArrayList;
 import java.util.Random;
+import java.lang.Object.*;
+import java.nio.file.*;
+
+
+
+
+
 //generates an array list of words made from random characters.
 //Seed system implemented for consistent output
 class RandomWord
 {
-	String word = "";
-	int index = 0;
+	String word = "";//instance variable for word to generate
+	int index = 0;//index number increases by 1 per generated word, maybe used later
 	
 	//builds a word by looping over the defined word length
 	//i+ seed is actually i+(i from main loop in main) 
@@ -53,21 +61,41 @@ class RandomWord
 
 }
 
+class FilePathHandler
+{
+	//used to get the relative path of this java file as a string
+	String getRelativePath()
+	{
+		Path currentRelativePath = Paths.get("");
+		String s = currentRelativePath.toAbsolutePath().toString();
+		return s;
+	}
+
+	void writeToFile(String filePath,String fileName)
+	{
+		//File fileToWrite1 = FileUtils.getFile(filePath + fileName);
+	}
+}
+
 
 public class RandomStringTester
 {
 	public static void main(String [] args)
 	{
+		
+		FilePathHandler filePath = new FilePathHandler();
+		String relPath = filePath.getRelativePath();
+		System.out.println("relative path is " + relPath );
 		int seedAll = 1012834;//seed for all generated words
 		int randomWordListSize = 10;//how many words to generate
-		int randomWordSize = 50;//length of each word
+		int randomWordSize = 10;//length of each word
 
+		//this data is used to generate unique strings
 		String data = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 
-
+		//Intialize new ArrayList with the RandomWord class
 		ArrayList<RandomWord> randomWordList = new ArrayList<RandomWord>();
 	
-		
 		for (int i = 0; i < randomWordListSize; i++)
 		{
 			//add new RandomWord object to arrayList per loop
@@ -82,7 +110,7 @@ public class RandomStringTester
 			randomWordList.get(i).buildWord(data,randomWordSize,i*seedAll);
 
 			//uncomment to see index number per generated word
-			System.out.println("index is " + randomWordList.get(i).getIndex());
+			//System.out.println("index is " + randomWordList.get(i).getIndex());
 
 			//prints generated word to the console
 			System.out.println(randomWordList.get(i).getWord());

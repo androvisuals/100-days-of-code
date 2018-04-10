@@ -30,7 +30,7 @@ Pure test code so nothing really useful.
 
 **Thoughts:** Great starting method to avoid using duplicate code in a class and being able to overwrite a method from a superclass.
 
-**Link to work:** [Day 2 Array List Study Strings](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%202%20Inheritance%20study)
+**Link to work:** [Day 2 inheritance studies](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%202%20Inheritance%20study)
 
 ### Day 3: APRIL 9 , 2018
 
@@ -39,4 +39,14 @@ This was then added to a system which allows any number of them to be generated 
 
 **Thoughts:** This will be the first step in me figuring out how to get random data with a seed so the same results can be created, then I want to write this to a file and start experimenting with encrypting the data.
 
-**Link to work:** [Day 3 Array List Study Strings](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2003%20random%20string%20generator%20java)
+**Link to work:** [Day 3 random string generator](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2003%20random%20string%20generator%20java)
+
+### Day 4: APRIL 10 , 2018
+
+**Today's Progress**: Continued with the system from yesterday. Now the system can generate the same pseudo random results with a seed number. 
+Working on implementing a way to write the final ArrayList into a text file.
+Managed to get the relative path of the current java file to be written as a string so that the future text file will be in a logical location.
+
+**Thoughts:** There are many different methods to write things to file, basically a lot of time went into this with little to show for it today. Learnt a lot though. Think I'll continue with the org.apache.commons.io.FileUtils as it seems to be a more modern implementation of older java classes.
+
+**Link to work:** [Day 4 pseudo random string generator](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2003%20random%20string%20generator%20java)
