@@ -49,4 +49,4 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Thoughts:** There are many different methods to write things to file, basically a lot of time went into this with little to show for it today. Learnt a lot though. Think I'll continue with the org.apache.commons.io.FileUtils as it seems to be a more modern implementation of older java classes.
 
-**Link to work:** [Day 4 pseudo random string generator](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2003%20random%20string%20generator%20java)
+**Link to work:** [Day 4 pseudo random string generator](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2004%20string%20generator%20to%20file)
