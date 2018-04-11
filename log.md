@@ -50,3 +50,11 @@ Managed to get the relative path of the current java file to be written as a str
 **Thoughts:** There are many different methods to write things to file, basically a lot of time went into this with little to show for it today. Learnt a lot though. Think I'll continue with the org.apache.commons.io.FileUtils as it seems to be a more modern implementation of older java classes.
 
 **Link to work:** [Day 4 pseudo random string generator](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2004%20string%20generator%20to%20file)
+
+### Day 5: APRIL 11 , 2018
+
+**Today's Progress**: Created a script which creates a text file and then writes strings into it. Also uses try catch exception. 
+
+**Thoughts:** Slow going again. Stopped using sublime text 3 and started again with java eclipse so it took a while to get familiar with it and get it all working again. Going to have to study more exception based programming. Going to combine this with the pseudo random string generator once i've figured out how to clear a file and read its contents.
+
+**Link to work:** [Day 5 text file generator]()
