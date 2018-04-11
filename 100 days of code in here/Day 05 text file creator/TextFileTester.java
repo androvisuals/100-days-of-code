@@ -1,5 +1,4 @@
 //day 05
-package daysOfCodePackage;
 
 import java.io.File;
 import java.io.IOException;
