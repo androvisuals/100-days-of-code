@@ -58,3 +58,11 @@ Managed to get the relative path of the current java file to be written as a str
 **Thoughts:** Slow going again. Stopped using sublime text 3 and started again with java eclipse so it took a while to get familiar with it and get it all working again. Going to have to study more exception based programming. Going to combine this with the pseudo random string generator once i've figured out how to clear a file and read its contents.
 
 **Link to work:** [Day 5 text file generator](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2005%20text%20file%20creator)
+
+### Day 6: APRIL 12 , 2018
+
+**Today's Progress**: Made a basic script which plays two wav files from the hard drive after each other.
+
+**Thoughts:** The Java documentation really misses any clear examples for anything from the javax library, very slow going. Still have a lot to learn about how to navigate through certain parts of the site. Still studying head first with java, busy with polymorphism.
+
+**Link to work:** [Day 6 wav file player]()
