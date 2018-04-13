@@ -73,4 +73,4 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Thoughts:** This was pretty hard, I have a lot to learn about "streams" and what that actually means in the bigger picture. Learnt a lot though about how picture image can be represented. 
 
-**Link to work:** [Day 7 wav file player]()
+**Link to work:** [Day 7 wav file player](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2007%20Image%20scrambler)
