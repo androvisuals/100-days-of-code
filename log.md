@@ -65,4 +65,12 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Thoughts:** The Java documentation really misses any clear examples for anything from the javax library, very slow going. Still have a lot to learn about how to navigate through certain parts of the site. Still studying head first with java, busy with polymorphism.
 
-**Link to work:** [Day 6 wav file player]()
+**Link to work:** [Day 6 Image scrambler not finished](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2006%20basic%20wav%20player)
+
+### Day 7: APRIL 13 , 2018
+
+**Today's Progress**: Made a script that converts a loaded image into an array of bytes, I wanted to shuffle the array and make a new image out of it to see some random glitch stuff. Only got as far to make it load an image into a array of bytes and then save a new image to drive from that array. Scrambler part will have to come later.
+
+**Thoughts:** This was pretty hard, I have a lot to learn about "streams" and what that actually means in the bigger picture. Learnt a lot though about how picture image can be represented. 
+
+**Link to work:** [Day 7 wav file player]()
