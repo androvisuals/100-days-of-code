@@ -65,7 +65,7 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Thoughts:** The Java documentation really misses any clear examples for anything from the javax library, very slow going. Still have a lot to learn about how to navigate through certain parts of the site. Still studying head first with java, busy with polymorphism.
 
-**Link to work:** [Day 6 Image scrambler not finished](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2006%20basic%20wav%20player)
+**Link to work:** [Day 6 wav file player](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2006%20basic%20wav%20player)
 
 ### Day 7: APRIL 13 , 2018
 
@@ -73,4 +73,12 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Thoughts:** This was pretty hard, I have a lot to learn about "streams" and what that actually means in the bigger picture. Learnt a lot though about how picture image can be represented. 
 
-**Link to work:** [Day 7 wav file player](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2007%20Image%20scrambler)
+**Link to work:** [Day 7 Image scrambler not finished ](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2007%20Image%20scrambler)
+
+### Day 8: APRIL 13 , 2018
+
+**Today's Progress**: Went back to basic arrayLists this time doing some testing with Abstract classes and methods in the mix.
+
+**Thoughts:** Decided to go back to the basics, need to learn a lot more advanced stuff before i can do the image scrambler stuff. The abstract parts make total sense to get working, but I'm missing some real world scenarios where I'd apply them. Sure that'll come later.
+
+**Link to work:** [Day 8 abstract class studies]()
