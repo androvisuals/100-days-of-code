@@ -81,4 +81,4 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Thoughts:** Decided to go back to the basics, need to learn a lot more advanced stuff before i can do the image scrambler stuff. The abstract parts make total sense to get working, but I'm missing some real world scenarios where I'd apply them. Sure that'll come later.
 
-**Link to work:** [Day 8 abstract class studies]()
+**Link to work:** [Day 8 abstract class studies](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2008%20abstract%20classes%20and%20methods)
