@@ -87,6 +87,6 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Today's Progress**: Basic script which requests the user to type intput into the console and then displays it. Continues until the user types in quit.
 
-**Thoughts:** Struggled with this one today, a few simple things like unput == "quit" didn't work as they compare the reference, needed to be .equals. etc etc. Think I'll carry on more with the user console things for the next few days.
+**Thoughts:** Struggled with this one today, a few simple things like input == "quit" didn't work as they compare the reference, needed to be .equals. etc etc. Think I'll carry on more with the user console things for the next few days.
 
 **Link to work:** [Day 9 User input to console](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2009%20user%20input%20to%20console)
