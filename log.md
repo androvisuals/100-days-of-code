@@ -87,6 +87,7 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Today's Progress**: Basic script which requests the user to type intput into the console and then displays it. Continues until the user types in quit.
 
+**Thoughts:** Struggled with this one today, a few simple things like input == "quit" didn't work as they compare the reference, needed to be .equals. etc etc. Think I'll carry on more with the user console things for the next few days.
 
 **Link to work:** [Day 9 User input to console](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2009%20user%20input%20to%20console)
 <<<<<<< HEAD
@@ -102,6 +103,5 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Thoughts:** Pretty much worked this out only as test code, all working so far, kind of messy, still its just an hour, going to tidy it up tomorrow and get it working with the user input.
 
-**Link to work:** [Day 10 Test code for dice pool system]()
-=======
->>>>>>> 34628312b7910d080242d83b63cdddf5d8f5c25d
+**Link to work:** [Day 10 Test code for dice pool system](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2010%20Dice%20calculator)
+
