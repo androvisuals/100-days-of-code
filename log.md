@@ -105,3 +105,12 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Link to work:** [Day 10 Test code for dice pool system](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2010%20Dice%20calculator)
 
+### Day 11: APRIL 17 , 2018
+
+**Today's Progress**: Part 02- Managed to get all the user input to define the outcomes of the methods, still not really tidied up as there were a few more methods to implement. Still a few bugs in the logic and I still have to add some extra features.
+
+**Thoughts:** Happy with the progress so far.
+
+**Link to work:** [Day 11 Test code for dice pool system](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2010%20Dice%20calculator)
+
+
