@@ -113,4 +113,11 @@ Managed to get the relative path of the current java file to be written as a str
 
 **Link to work:** [Day 11 Test code for dice pool system](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2010%20Dice%20calculator)
 
+### Day 12: APRIL 18 , 2018
+
+**Today's Progress**: Part 03 - So the user putting in the wrong type of input crashes the program, learning about exception handling and trying to loop the program if the user gives the wrong input. 
+
+**Thoughts:** Learnt a lot, very little results though as its not really working.
+**Link to work:** [Day 12 Test code for dice pool system]()
+
 
