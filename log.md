@@ -118,6 +118,13 @@ Managed to get the relative path of the current java file to be written as a str
 **Today's Progress**: Part 03 - So the user putting in the wrong type of input crashes the program, learning about exception handling and trying to loop the program if the user gives the wrong input. 
 
 **Thoughts:** Learnt a lot, very little results though as its not really working.
-**Link to work:** [Day 12 Test code for dice pool system]()
+**Link to work:** [Day 12 Test code for dice pool system](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2012%20Dice%20calculator%2003)
+
+### Day 13: APRIL 19 , 2018
+
+**Today's Progress**: Part 04 - Finally figured out how to use exception handling to test if the console input from the user was an integer or not. If not request new input, otherwise continue 
+
+**Thoughts:** Learnt a lot (again), very little results but now it works ! I'll do a lot of this differently when I do it again from scratch. 
+**Link to work:** [Day 13 Test code for dice pool system]()
 
 
