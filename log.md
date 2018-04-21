@@ -134,4 +134,11 @@ given an array of strings with names for each string see if there is a first and
 Ignore empty names or names without last name
 
 **Thoughts:** Good learning experience. Thanks Trevor ! 
-**Link to work:** [Day 14 String splitter]()
+**Link to work:** [Day 14 String splitter](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2013%20Dice%20calculator%2004)
+
+### Day 15: APRIL 21 , 2018
+
+**Today's Progress**: Started learning about JavaFX to make a basic ui/gui in java. Got the basics down, next part will be event handling.
+
+**Thoughts:** Good day, makes more sense than 6 months ago afetr studying more in the mean time
+**Link to work:** [Day 15 JavaFX gui]()
