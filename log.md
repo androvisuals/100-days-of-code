@@ -138,7 +138,15 @@ Ignore empty names or names without last name
 
 ### Day 15: APRIL 21 , 2018
 
-**Today's Progress**: Started learning about JavaFX to make a basic ui/gui in java. Got the basics down, next part will be event handling.
+**Today's Progress**: Started learning about JavaFX to make a basic ui/gui in java. Got the basics down, next part will be event handling. 
+Uploaded the wrong files, .class instead of .java ! Already written over them for the next days work, so day 16 is in this folder as well (its better anyway ;-) 
 
-**Thoughts:** Good day, makes more sense than 6 months ago afetr studying more in the mean time
+**Thoughts:** Good day, makes more sense than 6 months ago after studying more in the mean time
 **Link to work:** [Day 15 JavaFX gui]()
+
+### Day 16: APRIL 22 , 2018
+
+**Today's Progress**: Making good progress, Basic layouts are now implemented inside the window so basic automatic resizing occurs. Have my first event handler up and running with a console print out when a button is pressed. 
+
+**Thoughts:** Good progress, enjoying it !
+**Link to work:** [Day 16 JavaFX gui layout and event handler]()
