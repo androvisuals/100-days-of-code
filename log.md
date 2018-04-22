@@ -142,11 +142,11 @@ Ignore empty names or names without last name
 Uploaded the wrong files, .class instead of .java ! Already written over them for the next days work, so day 16 is in this folder as well (its better anyway ;-) 
 
 **Thoughts:** Good day, makes more sense than 6 months ago after studying more in the mean time
-**Link to work:** [Day 15 JavaFX gui]()
+**Link to work:** [Day 15 JavaFX gui](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2015%20JavaFX%20GUI%20start)
 
 ### Day 16: APRIL 22 , 2018
 
 **Today's Progress**: Making good progress, Basic layouts are now implemented inside the window so basic automatic resizing occurs. Have my first event handler up and running with a console print out when a button is pressed. 
 
 **Thoughts:** Good progress, enjoying it !
-**Link to work:** [Day 16 JavaFX gui layout and event handler]()
+**Link to work:** [Day 16 JavaFX gui layout and event handler](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2016%20JavaFX%20gui%20layout%20event%20handler)
