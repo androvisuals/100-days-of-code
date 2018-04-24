@@ -150,3 +150,10 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 
 **Thoughts:** Good progress, enjoying it !
 **Link to work:** [Day 16 JavaFX gui layout and event handler](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2016%20JavaFX%20gui%20layout%20event%20handler)
+
+### Day 17: APRIL 23 , 2018
+
+**Today's Progress**: A button press can now change label text in the GUI. Also added a text field object which allows the user to type into the field, press a button and have that string printed to the console. 
+
+**Thoughts:** Going good.
+**Link to work:** [Day 17 JavaFX gui change labels and user input field]()
