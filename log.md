@@ -156,4 +156,11 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 **Today's Progress**: A button press can now change label text in the GUI. Also added a text field object which allows the user to type into the field, press a button and have that string printed to the console. 
 
 **Thoughts:** Going good.
-**Link to work:** [Day 17 JavaFX gui change labels and user input field]()
+**Link to work:** [Day 17 JavaFX gui change labels and user input field](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2017%20JavaFX%20gui%20user%20text%20fields)
+
+### Day 18: APRIL 24 , 2018
+
+**Today's Progress**:Researched new methods for placement of child objects within nodes, replaced everything with the Gridpane class , this makes it way easier to decide the where everything should be placed. Got the slider object to work with showing its output to a label in the gui.
+
+**Thoughts:** Still going good ;-)
+**Link to work:** [Day 18 JavaFX gui improved layout and slider reader]()
