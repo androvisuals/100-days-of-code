@@ -163,4 +163,11 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 **Today's Progress**:Researched new methods for placement of child objects within nodes, replaced everything with the Gridpane class , this makes it way easier to decide the where everything should be placed. Got the slider object to work with showing its output to a label in the gui.
 
 **Thoughts:** Still going good ;-)
-**Link to work:** [Day 18 JavaFX gui improved layout and slider reader]()
+**Link to work:** [Day 18 JavaFX gui improved layout and slider reader](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2018%20JavaFX%20gui%20improved%20with%20gridpane)
+
+### Day 19: APRIL 25 , 2018
+
+**Today's Progress**: Refactored the whole panel section as Main was becoming very long and cluttered. Added background colors and borders to each panel. A lot tidier now and easier to work with.
+
+**Thoughts:** Still going good ;-)
+**Link to work:** [Day 19 JavaFX gui refactored added borders - background colors]()
