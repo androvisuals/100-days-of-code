@@ -170,4 +170,11 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 **Today's Progress**: Refactored the whole panel section as Main was becoming very long and cluttered. Added background colors and borders to each panel. A lot tidier now and easier to work with.
 
 **Thoughts:** Still going good ;-)
-**Link to work:** [Day 19 JavaFX gui refactored added borders - background colors]()
+**Link to work:** [Day 19 JavaFX gui refactored added borders - background colors](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2019%20JavaFX%20gui%20borders%20color%20refactored%20all)
+
+### Day 20: APRIL 26 , 2018
+
+**Today's Progress**: Played around with the flowpane panel. Tried to load background images into each panel, got the images to load but they overdraw over panels so it didn't work out (yet)
+
+**Thoughts:** Can't win them all 
+**Link to work:** [Day 20 JavaFX gui working with images in panels]()
