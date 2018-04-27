@@ -177,4 +177,11 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 **Today's Progress**: Played around with the flowpane panel. Tried to load background images into each panel, got the images to load but they overdraw over panels so it didn't work out (yet)
 
 **Thoughts:** Can't win them all 
-**Link to work:** [Day 20 JavaFX gui working with images in panels]()
+**Link to work:** [Day 20 JavaFX gui working with images in panels](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2019%20JavaFX%20gui%20borders%20color%20refactored%20all)
+
+### Day 21: APRIL 26 , 2018
+
+**Today's Progress**: TestPanel can generate any amount of buttons. Buttons get a dropshadow when the mouse goes over them, color also changes on click. These two actions have been placed into methods which can be called in any panel.
+
+**Thoughts:** Dropped the background image for now as it wasn't working out
+**Link to work:** [Day 21 reactive buttons with color]()
