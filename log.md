@@ -179,9 +179,17 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 **Thoughts:** Can't win them all 
 **Link to work:** [Day 20 JavaFX gui working with images in panels](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2019%20JavaFX%20gui%20borders%20color%20refactored%20all)
 
-### Day 21: APRIL 26 , 2018
+### Day 21: APRIL 27 , 2018
 
 **Today's Progress**: TestPanel can generate any amount of buttons. Buttons get a dropshadow when the mouse goes over them, color also changes on click. These two actions have been placed into methods which can be called in any panel.
 
 **Thoughts:** Dropped the background image for now as it wasn't working out
-**Link to work:** [Day 21 reactive buttons with color]()
+**Link to work:** [Day 21 reactive buttons with color](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2021%20JavaFX%20gui%20reactive%20button%20colors)
+
+### Day 22: APRIL 28 , 2018
+
+**Today's Progress**: Trying to get the java preferences library to work so I can save the state of the GUI. No joy yet. 
+
+**Thoughts:** Just need another day then I should get this working
+**Link to work:** [Day 22 JavaFX Save gui preferences]()
+
