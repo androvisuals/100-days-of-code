@@ -191,5 +191,13 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 **Today's Progress**: Trying to get the java preferences library to work so I can save the state of the GUI. No joy yet. 
 
 **Thoughts:** Just need another day then I should get this working
-**Link to work:** [Day 22 JavaFX Save gui preferences]()
+**Link to work:** [Day 22 JavaFX Save gui preferences](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2022%20JavaFX%20Save%20gui%20preferences)
+
+### Day 23: APRIL 29 , 2018
+
+**Today's Progress**: Still trying to get preferences to work, good progress but not working in the actual program yet.
+
+**Thoughts:** add another day :P
+**Link to work:** [Day 23 JavaFX Save gui preferences 2]()
+
 
