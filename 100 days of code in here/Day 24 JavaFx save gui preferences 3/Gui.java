@@ -262,7 +262,8 @@ public class Gui extends Application
 		slider1Center.setShowTickLabels(true);
 		slider1Center.setMajorTickUnit(0.25f);
 		slider1Center.setBlockIncrement(0.1f);
-		slider1Center.setValue(Double.parseDouble(saveGui.getValue("0") ));
+		
+		slider1Center.setValue(Double.parseDouble(saveGui.getValue("10") ));
 		
 		//add all the nodes together in the  gridPane
 		gp.add(lbl1Center, 0, 0);
@@ -285,7 +286,7 @@ public class Gui extends Application
 				String sliderValue = df.format(slider1Center.getValue()); 
 				lbl2Center.setText("Slider value is " + sliderValue);
 				//gui save preferences
-				saveGui.setValue("0", slider1Center.getValue());
+				saveGui.setValue("10", slider1Center.getValue());
 			}
 		  });
 		  //if user presses this button then the text from the 

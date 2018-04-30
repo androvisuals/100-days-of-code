@@ -78,25 +78,38 @@ public class Main extends Application
       
       //Setting the title to Stage. 
       primaryStage.setTitle("Sample Layout Application"); 
-      primaryStage.setMinWidth(640);
-      primaryStage.setMinHeight(480);
+      primaryStage.setMinWidth(500);
+      primaryStage.setMinHeight(320);
+      primaryStage.setWidth(Double.parseDouble(saveGui.getValue("0")));
+      primaryStage.setHeight(Double.parseDouble(saveGui.getValue("1")));
      
       
-   
+      
       //Adding the scene to Stage 
       primaryStage.setScene(scene); 
       
-     
+    //runs when width is changed to store it to preferences
+      scene.widthProperty().addListener(new ChangeListener<Number>() {
+    	    @Override public void changed(ObservableValue<? extends Number> observableValue, Number oldSceneWidth, Number newSceneWidth) {
+    	        System.out.println("Width: " + newSceneWidth);
+    	    }
+    	});
+      //runs when height is changed to store it to preferences
+      scene.heightProperty().addListener(new ChangeListener<Number>() {
+    	    @Override public void changed(ObservableValue<? extends Number> observableValue, Number oldSceneHeight, Number newSceneHeight) {
+    	        System.out.println("Height: " + newSceneHeight);
+    	    }
+    	});
       //this code runs when the window is closed
       primaryStage.setOnCloseRequest(new EventHandler<WindowEvent>() {
           public void handle(WindowEvent we) {
-        	  saveGui.setValue("10", primaryStage.getWidth());
-        	  saveGui.setValue("11", primaryStage.getHeight());
+        	  saveGui.setValue("0", primaryStage.getWidth());
+        	  saveGui.setValue("1", primaryStage.getHeight());
               
-        	  System.out.println("Stage is closing");
+        	  System.out.println("Window is closing");
           }
       });  
-       
+      
       //Displaying the contents of the stage 
       primaryStage.show(); 
    }    

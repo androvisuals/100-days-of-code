@@ -1,21 +1,25 @@
 package application;
 
 import java.util.prefs.Preferences;
-
+/*
+ * key 0 is width
+ * key 1 is height 
+ * key10 is slider center
+ */
 public class SaveGuiPrefs 
 {
 	Preferences state;
 	String value;
 	
 	String keyValue ;
-	//String KeyDouble = "0";
-	//String KeyBoolean = "KEY_BOOLEAN";
+
 	
+	//initialize method, used by all constructors
 	void Init(String nodeName)
 	{
 		keyValue =  "key0";
 		state = Preferences.userRoot().node(nodeName);
-		String preValue = state.get(keyValue, "");
+		
 		
 		value = "";
 	}
@@ -32,6 +36,8 @@ public class SaveGuiPrefs
 	{
 		Init(nodeName);
 	}
+	
+	//overloaded methods for all value types
 	public void setValue (String key, String value)
 	{
 		state.put(key, value);
@@ -40,24 +46,18 @@ public class SaveGuiPrefs
 	{
 		state.putDouble(key, value);
 	}
+	public void setValue (String key, int value)
+	{
+		state.putInt(key, value);
+	}
+	public void setValue (String key, boolean value)
+	{
+		state.putBoolean(key, value);
+	}
 	public String getValue(String key) 
 	{
 		return state.get(key,"");
 	}
 	
-	
-	//boolean prefBoolean = state.getBoolean(KeyBoolean, true);
-	
-	
-	//preferences.put();
-//System.out.println("Stored KEY_WEB: " + prefWeb);
-//	System.out.println("Stored KEY_INT: " + prefInt);
-//	System.out.println("Stored KEY_BOOLEAN: " + prefBoolean);
-
-//	System.out.println("Save something to Preferences");
-	//state.putString(KeyWeb, "http://java-buddy.blogspot.com/");
-	//preferences.put
-//	preferences.putInt(KeyInt, 1934530);
-//	preferences.putBoolean(KeyBoolean, true);
 	
 }
