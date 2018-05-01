@@ -205,6 +205,13 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 **Today's Progress**: Gui width , height and a single slider are now saved to preferences automatically, started learning how to make a xml file with dom in java 
 
 **Thoughts:** Nailed it for now will clean up later 
-**Link to work:** [Day 24 Preferences of gui are now saved - started xml file maker]()
+**Link to work:** [Day 24 Settings of gui are now saved - started xml file maker](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2024%20JavaFx%20save%20gui%20preferences%203)
+
+### Day 25: MAY 01 , 2018
+
+**Today's Progress**: researching different classes and libraries for creating, reading and modifying XML data with java. No solid results yet.
+
+**Thoughts:** Still researching the basics.
+**Link to work:** [Day 25 xml file maker start]()
 
 
