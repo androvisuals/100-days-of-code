@@ -212,6 +212,13 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 **Today's Progress**: researching different classes and libraries for creating, reading and modifying XML data with java. No solid results yet.
 
 **Thoughts:** Still researching the basics.
-**Link to work:** [Day 25 xml file maker start]()
+**Link to work:** [Day 25 xml file maker start](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2025%20xml%20maker%20studies%201)
+
+### Day 26: MAY 02 , 2018
+
+**Today's Progress**: Needed a break. Decided to do an hour of codewars. Managed to get 3 out of the 5 katas.
+
+**Thoughts:** Fun to do !
+**Link to work:** [Day 26 codewars day 1 ]()
 
 
