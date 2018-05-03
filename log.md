@@ -219,6 +219,13 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 **Today's Progress**: Needed a break. Decided to do an hour of codewars. Managed to get 3 out of the 5 katas.
 
 **Thoughts:** Fun to do !
-**Link to work:** [Day 26 codewars day 1 ]()
+**Link to work:** [Day 26 codewars day 1 ](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2026%20codewars%20excercise%201)
+
+### Day 27: MAY 03 , 2018
+
+**Today's Progress**: More codewars. Got a lot harder today. Managed to only complete two katas from the 4 I tried. The 2nd one really had me stumped for quite a while. 
+
+**Thoughts:** Brain ache
+**Link to work:** [Day 27 codewars day 2 ]()
 
 
