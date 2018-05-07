@@ -233,6 +233,14 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 **Today's Progress**: More codewars. Managed to get 3 out of 4. Learnt a couple of nice cool built in functions from the java library.
 
 **Thoughts:** less brain ache. 
-**Link to work:** [Day 28 codewars day 3 ]()
+**Link to work:** [Day 28 codewars day 3 ](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2028%20codewars%20excercise%203)
+
+### Day 29: MAY 07 , 2018
+
+**Today's Progress**: Started a basic game which i want to implement with the new things I learnt with GUI's with JavaFX.
+Got some basic elements together.
+
+**Thoughts:** Went okay, needed 2 days away from the computer to recharge + slightly ill.
+**Link to work:** [Day 29 Basic game model 1 ]()
 
 
