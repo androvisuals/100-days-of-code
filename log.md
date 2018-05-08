@@ -241,6 +241,13 @@ Uploaded the wrong files, .class instead of .java ! Already written over them fo
 Got some basic elements together.
 
 **Thoughts:** Went okay, needed 2 days away from the computer to recharge + slightly ill.
-**Link to work:** [Day 29 Basic game model 1 ]()
+**Link to work:** [Day 29 Basic game model 1 ](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2029%20Basic%20game%20model%201)
+
+### Day 30: MAY 08 , 2018
+
+**Today's Progress**: Made great progress today with a lot of things just kind of stuck with 2 seperate panes overwriting each other. Figured it out but I'll fix it tomorrow
+
+**Thoughts:** Been a good 7 hours today got a lot done.
+**Link to work:** [Day 30 Basic game model 2 ]()
 
 
