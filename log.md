@@ -248,6 +248,15 @@ Got some basic elements together.
 **Today's Progress**: Made great progress today with a lot of things just kind of stuck with 2 seperate panes overwriting each other. Figured it out but I'll fix it tomorrow
 
 **Thoughts:** Been a good 7 hours today got a lot done.
-**Link to work:** [Day 30 Basic game model 2 ]()
+**Link to work:** [Day 30 Basic game model 2 ](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2030%20Basic%20game%20model%202)
+
+### Day 31: MAY 17 , 2018
+
+**Today's Progress**: After 2 days I finally have a fully working setup with Unity,tensorflow and the machine learning agents package. The agent(cube) has to find the target location(sphere) as quickly as possible.
+Saving the whole unity file isn't possible with github at this time so these are the basic scripts with the agent settings and the training data settings.
+
+**Thoughts:** I was away for over half a week and I needed a break of the java gui stuff after realizing I just may as well build it from scratch after working myself into a few corners :P 
+With the machine learning setup it's been a very difficult thing to get working. Its all still very much in experimental stages with th ML agents stuff. The differences in previous versions, lack of up to date documentation, using so many different pieces of software together. But finally its working !
+**Link to work:** [Day 31 Machine learning agents Unity 1 ]()
 
 
