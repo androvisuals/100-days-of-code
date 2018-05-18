@@ -257,6 +257,13 @@ Saving the whole unity file isn't possible with github at this time so these are
 
 **Thoughts:** I was away for over half a week and I needed a break of the java gui stuff after realizing I just may as well build it from scratch after working myself into a few corners :P 
 With the machine learning setup it's been a very difficult thing to get working. Its all still very much in experimental stages with th ML agents stuff. The differences in previous versions, lack of up to date documentation, using so many different pieces of software together. But finally its working !
-**Link to work:** [Day 31 Machine learning agents Unity 1 ]()
+**Link to work:** [Day 31 Machine learning agents Unity 1 ](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2031%20Machine%20Learning%20Unity%201)
+
+### Day 32: MAY 18 , 2018
+
+**Today's Progress**: The agent now has to find the target in 3d space, basic frameworks done. Its just very ineffecient right now. I think I have to get the delta value of the distance between the 2 points in 3d space, reward if distance decreases, punish if distance increases.
+
+**Thoughts:** Happy with the progress.
+**Link to work:** [Day 32 Machine learning agents Unity 2 ]()
 
 
