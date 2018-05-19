@@ -264,6 +264,13 @@ With the machine learning setup it's been a very difficult thing to get working.
 **Today's Progress**: The agent now has to find the target in 3d space, basic frameworks done. Its just very ineffecient right now. I think I have to get the delta value of the distance between the 2 points in 3d space, reward if distance decreases, punish if distance increases.
 
 **Thoughts:** Happy with the progress.
-**Link to work:** [Day 32 Machine learning agents Unity 2 ]()
+**Link to work:** [Day 32 Machine learning agents Unity 2 ](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2032%20Machine%20Learning%20Unity%202)
+
+### Day 33: MAY 18 , 2018
+
+**Today's Progress**: Codewars, only pulled off 1 today, its getting a lot harder.On a different computer so no Machine learning today.
+
+**Thoughts:** Can't win em all.
+**Link to work:** [Day 33 codewars day 4 ]()
 
 
