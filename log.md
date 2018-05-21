@@ -271,6 +271,14 @@ With the machine learning setup it's been a very difficult thing to get working.
 **Today's Progress**: Codewars, only pulled off 1 today, its getting a lot harder.On a different computer so no Machine learning today.
 
 **Thoughts:** Can't win em all.
-**Link to work:** [Day 33 codewars day 4 ]()
+**Link to work:** [Day 33 codewars day 4 ](https://github.com/androvisuals/100-days-of-code/tree/master/100%20days%20of%20code%20in%20here/Day%2033%20codewars%20excercise%204)
+
+### Day 34: MAY 21 , 2018
+
+**Today's Progress**: 2 unique agents in Unity with  machine learning try to beat each other.
+The ball tries to stay on the platform as long as possible , the platform tries to get the ball off as quickly as possible. Both agents have a unique brain which have trained together.
+
+**Thoughts:** Forgot to upload this yesterday.Worked together with this on Roel Ezendam who was incredibly helpful with the whole process. Thanks a lot Roel !
+**Link to work:** [Day 34 Machine learning agents Unity 3 ]()
 
 
